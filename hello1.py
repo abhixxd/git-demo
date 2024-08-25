@@ -10,3 +10,4 @@ def my_functionA():
   print("Hello from a function")
 
 my_function()
+c=6
