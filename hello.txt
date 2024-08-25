@@ -1,4 +1,4 @@
-this is git and github
+this is git and git
 # this is a comment
 # this is a comment
 this is first commit
