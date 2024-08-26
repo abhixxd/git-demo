@@ -1,2 +1,2 @@
 this is for blue file.
-# blue_file = open('blue.txt', 'r')
+# blue_file = open('blue.txt')
