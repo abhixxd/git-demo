@@ -1,2 +1,3 @@
 this is for purple
 if (color == "purple"):
+print("This is for purple")
