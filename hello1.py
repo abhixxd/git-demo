@@ -12,3 +12,5 @@ def my_functionA():
 my_function()
 c=6
 d =5
+g=4
+h=5
