@@ -18,3 +18,7 @@ def my_functionA():
   print("Hello from a function")
 
 my_function()
+def my_functionB():
+  print("Hello from a function")
+
+my_function()
