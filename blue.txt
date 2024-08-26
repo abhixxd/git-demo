@@ -1,2 +1,2 @@
-this is for blue file.
+this is for blue file 1.
 # blue_file = open('blue.txt')
