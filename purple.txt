@@ -1,1 +1,2 @@
 this is for purple
+if (color == "purple"):
