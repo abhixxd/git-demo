@@ -7,3 +7,6 @@ def my_functionB():
 def my_functionC():
   print("Hello from a function")
 my_functionC()
+def my_functionD():
+  print("Hello from a function")
+my_functionD()
